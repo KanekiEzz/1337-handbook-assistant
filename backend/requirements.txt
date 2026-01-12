@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain==0.1.20
+langchain-community
+langchain-text-splitters
+chromadb
+ollama
+pypdf
+sentence-transformers
